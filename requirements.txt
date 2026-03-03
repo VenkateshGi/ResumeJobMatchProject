@@ -1,0 +1,24 @@
+# Core LLM
+langchain
+langchain-google-genai
+langchain-community
+langgraph
+
+# PDF Parsing
+pymupdf
+
+# Vector Store
+chromadb
+
+# Search
+googlesearch-python
+
+# Storage
+# sqlite3 is built-in to Python
+
+# UI (later)
+streamlit
+
+# Utilities
+python-dotenv
+pydantic
