@@ -1,0 +1,125 @@
+📋 Total jobs extracted: 20
+
+============================================================
+
+[1] Generative AI Platform Engineer - Hyderabad @ Onzestt Services
+    📍 Hyderabad | ⏳ 7 to 12 years
+    🛠  AWS, Python
+    📝 Onzestt Services is hiring a Generative AI Platform Engineer in Hyderabad. The role requires 7 to 12 years of experience, with key skills in AWS and Python.
+    🔗 https://www.naukri.com/job-listings-generative-ai-platform-engineer-onzestt-services-hyderabad-7-to-12-years-180226030379
+
+[2] Engineering Manager (Python & AWS) @ Experian
+    📍 Hyderabad | ⏳ 12+ years
+    🛠  Python, React, AWS
+    📝 Seeking an Engineering Manager with 12+ years in product development and 2+ years managing software engineering teams. The role requires strong technical depth in Python, React, and AWS.
+    🔗 https://www.naukri.com/job-listings-engineering-manager-python-aws-experian-services-india-private-limited-hyderabad-12-to-17-years-260226931612
+
+[3] Tech Lead Python AI/ML Cloud - Hyderabad @ Solix Technologies
+    📍 Hyderabad | ⏳ 8-12 years
+    🛠  Python, FastAPI, AI/ML, NLP, GenAI (LLMs)
+    📝 Seeking a Tech Lead with strong experience in Python, FastAPI, AI/ML, NLP, GenAI (LLMs), and AWS cloud. This role involves leading backend and AI development initiatives.
+    🔗 https://www.naukri.com/job-listings-tech-lead-python-ai-ml-cloud-solix-technologies-hyderabad-8-to-12-years-200625030828
+
+[4] Gen AI- Platform engineer @ Matchpoint Solutions
+    📍 Bengaluru | ⏳ 3-8 years
+    🛠  GenAI, cloud-native systems
+    📝 We are seeking a highly skilled and motivated Software Engineer, with experience in GenAI and cloud- native systems, to join our team.
+    🔗 https://www.naukri.com/job-listings-gen-ai-platform-engineer-match-point-solutions-bengaluru-3-to-8-years-170226505388?src=companyPageJobsMob&sid=17722773975989199&xp=19&px=1
+
+[5] Senior Software Engineer (AI/ML) @ elevate
+    📍 Hybrid - Gurugram | ⏳ 6-10 Yrs
+    🛠  Data Science, Natural
+    📝 Seeking a Senior Software Engineer with 6-10 years of experience in AI/ML. This hybrid role at elevate is based in Gurugram. Key skills include Data Science and Natural Language Processing.
+    🔗 https://www.naukri.com/langchain-jobs
+
+[6] Senior Software Engineer (AI/Search Engineer) @ S&P Capital IQ India Pvt Ltd
+    📍 Hyderabad | ⏳ 6-8 years
+    🛠  AI/ML framework, langchain, langgraph
+    📝 Seeking a Senior Software Engineer with expertise in AI/Search engineering. The role involves working with AI/ML frameworks such as Langchain/Langgraph.
+    🔗 https://www.naukri.com/job-listings-senior-software-engineer-ai-search-engineer-s-p-capital-iq-india-pvt-ltd-hyderabad-6-to-8-years-160226922826
+
+[7] AI/ML Senior Engineer @ Conversehr Business Solutions
+    📍 Hyderabad | ⏳ 7 to 12 years
+    🛠  Unknown
+    📝 Lead AI project delivery from the Hyderabad team, ensuring quality and timely execution. Translate business problems into AI solutions.
+    🔗 https://www.naukri.com/job-listings-ai-ml-senior-engineer-conversehr-business-solutions-hyderabad-7-to-12-years-250226041781
+
+[8] Sr AI Engineer @ Pragma Edge Software Services
+    📍 Hyderabad | ⏳ 1 to 6 years
+    🛠  CrewAI, LangGraph, AutoGen, LangChain
+    📝 Design and implement agent-based and multi-agent systems using frameworks such as CrewAI, LangGraph, AutoGen, and LangChain.
+    🔗 https://www.naukri.com/job-listings-sr-ai-engineer-pragma-edge-software-services-hyderabad-1-to-6-years-280126019229
+
+[9] GenAI / Agentic AI developers @ Cloud Base Solutions
+    📍 Hyderabad, Telangana, India | ⏳ Unknown
+    🛠  GenAI, Agentic AI, Artificial Intelligence
+    📝 Cloud Base Solutions is seeking GenAI / Agentic AI developers. This role involves working on Artificial Intelligence engineering projects.
+    🔗 https://in.linkedin.com/jobs/view/genai-agentic-ai-developers-at-cloud-base-solutions-4202505332
+
+[10] GenAI Engineer @ Persistent Systems
+    📍 Hyderabad, Telangana, India | ⏳ Unknown
+    🛠  GenAI
+    📝 This role is for a GenAI Engineer at Persistent Systems in Hyderabad, Telangana, India. The company is actively hiring for this position.
+    🔗 https://in.linkedin.com/jobs/genetic-engineer-jobs-hyderabad
+
+[11] Senior Software Engineer - full stack (java/.net) + AI/GenAI @ Wells Fargo
+    📍 Greater Hyderabad Area | ⏳ Unknown
+    🛠  java, .net, AI, GenAI, Agentic AI
+    📝 Seeking a Senior Software Engineer with full-stack expertise in Java/.NET, specializing in AI/GenAI/Agentic AI. This role is based in the Greater Hyderabad Area at Wells Fargo.
+    🔗 https://in.linkedin.com/jobs/view/senior-software-engineer-full-stack-java-net-%2B-ai-genai-agentic-ai-at-wells-fargo-4368322452
+
+[12] GenAI-Hyderabad/Bengaluru/Chennai/Pune @ Deloitte
+    📍 Hyderabad/Bengaluru/Chennai/Pune | ⏳ Unknown
+    🛠  GenAI
+    📝 This role at Deloitte involves working with Generative AI, with opportunities available in Hyderabad, Bengaluru, Chennai, and Pune.
+    🔗 https://in.linkedin.com/jobs/view/genai-hyderabad-bengaluru-chennai-pune-at-deloitte-4367244513
+
+[13] LLM Engineer / AI Engineer @ Unknown
+    📍 Hyderabad, Telangana (Remote) | ⏳ Unknown
+    🛠  LLM, AI Engineer, Large Language Model systems
+    📝 We are looking for a highly skilled LLM / AI Engineer to design, build, and optimize advanced Large Language Model (LLM) systems.
+    🔗 https://in.indeed.com/q-ai-engineer-llm-engineer-hyderabad-remote-india-l-hyderabad,-telangana-jobs.html
+
+[14] Senior AI Engineer @ Unknown
+    📍 Hyderabad Secunderabad | ⏳ Unknown
+    🛠  Artificial Intelligence, RAG, LLM, Machine Learning, Python
+    📝 This role involves working as a Senior AI engineer, with responsibilities in ML ops and AI DevOps. Key skills include Artificial Intelligence, RAG, LLM, Machine Learning, and Python.
+    🔗 https://www.naukri.com/artificial-intelligence-jobs-in-hyderabad-secunderabad
+
+[15] Developer - LLM AI Engineer @ Atirath Technologies Pvt Lt
+    📍 Hyderabad, Telangana | ⏳ Unknown
+    🛠  Generative AI, RAG based applications, LLM AI
+    📝 Seeking an LLM AI Engineer with experience in generative AI technologies, specifically on RAG based applications.
+    🔗 https://in.indeed.com/q-generative-ai-engineer-l-hyderabad,-telangana-jobs.html
+
+[16] Ai Engineer Llm Rag @ Confidential
+    📍 Hyderabad | ⏳ Unknown
+    🛠  Ai, Llm, Rag
+    📝 Seeking an AI Engineer with expertise in LLM and RAG technologies. This role is based in Hyderabad and involves working on confidential projects.
+    🔗 https://in.expertini.com/jobs/in/ai-engineer-llm-rag-hyderabad-confidential/
+
+[17] Python GenAI Engineer @ Unknown
+    📍 Hyderabad, Telangana | ⏳ Experienced (Lead Level)
+    🛠  Python, GenAI
+    📝 Seeking a highly experienced Lead Engineer – GenAI who will provide technical guidance to junior programmers and other software engineers.
+    🔗 https://www.indeed.co.in/Ai-Engineer-Python-jobs-in-Hyderabad,-Telangana
+
+[18] GenAI - Prompt Engineer @ Unknown
+    📍 HITEC City, Hyderabad, Telangana | ⏳ minimum 1 year experience in GenAI
+    🛠  GenAI, data scientist, AI
+    📝 Seeking a candidate with a data scientist background and at least 1 year of experience in GenAI. The role involves researching and analyzing state-of-the-art AI technologies.
+    🔗 https://www.indeed.co.in/The-Python-jobs-in-HITEC-City,-Hyderabad,-Telangana
+
+[19] Platform Engineer-Agentic AI, Python @ Unknown
+    📍 Banjara Hills, Hyderabad, Telangana | ⏳ Unknown
+    🛠  Python, Agentic AI
+    📝 In this role, you will work closely with our product and engineering teams to deliver high-quality, scalable solutions.
+    🔗 https://www.indeed.co.in/Python-jobs-in-Banjara-Hills,-Hyderabad,-Telangana
+
+[20] AI/ML Engineer @ Unknown
+    📍 Pragathi Nagar, Hyderabad, Telangana | ⏳ 5-8 years
+    🛠  AI/ML, Machine Learning, GenAI, Data, Python
+    📝 Seeking an experienced AI/ML Engineer with 5-8 years of hands-on expertise. The role involves end-to-end machine learning and GenAI solution development, with a focus on data.
+    🔗 https://www.indeed.co.in/Python-jobs-in-Pragathi-Nagar,-Hyderabad,-Telangana
+
+============================================================

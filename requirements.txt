@@ -11,7 +11,7 @@ pymupdf
 chromadb
 
 # Search
-googlesearch-python
+google-search-results
 
 # Storage
 # sqlite3 is built-in to Python
@@ -22,3 +22,6 @@ streamlit
 # Utilities
 python-dotenv
 pydantic
+
+beautifulsoup4
+requests
