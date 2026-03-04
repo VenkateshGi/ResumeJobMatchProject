@@ -4,5 +4,6 @@ __pycache__/
 *.pyc
 .chroma/
 data/*.pdf
+data/*.db
 *.db
 .DS_Store

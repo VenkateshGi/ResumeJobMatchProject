@@ -194,4 +194,11 @@ if __name__ == "__main__":
     strong = [s for s in scored_jobs if s.score.recommendation in ["Strong Apply", "Apply"]]
     print(f"\n📊 Summary: {len(strong)} jobs worth applying | "
           f"{len(scored_jobs) - len(strong)} to skip\n")
-    
+    # Auto-save to DB
+    from storage import init_db, save_all_scored_jobs, print_jobs_table, get_all_jobs
+    init_db()
+    result = save_all_scored_jobs(scored_jobs)
+    print(f"\n💾 Saved: {result['inserted']} new | {result['duplicates']} duplicates skipped")
+
+    print("\n📋 All jobs in DB:")
+    print_jobs_table(get_all_jobs())
