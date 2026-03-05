@@ -4,6 +4,8 @@ langchain-google-genai
 langchain-community
 langgraph
 
+google-generativeai
+
 # PDF Parsing
 pymupdf
 
