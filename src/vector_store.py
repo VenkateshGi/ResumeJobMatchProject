@@ -302,7 +302,7 @@ def build_rag_chain(vectorstore: Chroma):
 
     # Step 2 — LLM
     llm = ChatGoogleGenerativeAI(
-        model="gemini-2.5-flash-preview-04-17",
+        model="gemini-2.5-flash",
         temperature=0.2,
         google_api_key=os.getenv("GOOGLE_API_KEY")
     )
