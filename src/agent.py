@@ -68,9 +68,9 @@ def node_parse_resume(state: AgentState) -> AgentState:
 def node_search_jobs(state: AgentState) -> AgentState:
     """Node 2 — Search for live job postings via SerpAPI."""
 
-    print("\n" + "─"*60)
+    print("\n" + "─"*80)
     print("🤖 [Node 2/6] Searching Jobs...")
-    print("─"*60)
+    print("─"*80)
 
     try:
         jobs = search_jobs_for_profile(
@@ -176,7 +176,7 @@ def node_rag_insights(state: AgentState) -> AgentState:
         questions = [
             f"Which jobs best match my {state['profile'].current_role} background?",
             "What are the most common missing skills I should upskill in?",
-            "Which companies are hiring and what experience do they require?"
+            "What skills should this candidate learn to qualify for more jobs?",
         ]
 
         rag_answers = []
